@@ -7,6 +7,6 @@
 		"description": "downloaded_files",
 		"call_media_scan": true,
 		"source": "blackmart/downloads",
-		"target": "Download/blackmart/downloads"
+		"target": "Download/blackmart"
 	}]
 }
