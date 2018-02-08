@@ -4,7 +4,7 @@
 	"feature_affected": false,
 	"authors": ["SeanCheng"],
 	"observers": [{
-		"description": "downloaded_files",
+		"description": "download_files",
 		"call_media_scan": true,
 		"source": "blackmart/downloads",
 		"target": "Download/blackmart"
