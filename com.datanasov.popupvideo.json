@@ -4,7 +4,7 @@
 	"feature_affected": false,
 	"authors": ["SeanCheng"],
 	"observers": [{
-		"description": "download_videos",
+		"description": "downloaded_videos",
 		"call_media_scan": true,
 		"source": "AwesomeDownloads",
 		"target": "Download/Awesome"
