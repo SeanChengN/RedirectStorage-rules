@@ -4,7 +4,7 @@
 	"feature_affected": false,
 	"authors": ["SeanCheng"],
 	"observers": [{
-		"description": "download_pictures",
+		"description": "downloaded_pictures",
 		"call_media_scan": true,
 		"source": "Download",
 		"target": "Download/JiyouMail"
