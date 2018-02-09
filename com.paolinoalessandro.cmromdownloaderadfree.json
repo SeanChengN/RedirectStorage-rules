@@ -4,7 +4,7 @@
 	"feature_affected": false,
 	"authors": ["SeanCheng"],
 	"observers": [{
-		"description": "download_files",
+		"description": "downloaded_files",
 		"call_media_scan": true,
 		"source": "Lineage_Downloader",
 		"target": "Download/Lineage"
